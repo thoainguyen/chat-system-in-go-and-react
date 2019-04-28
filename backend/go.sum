@@ -1,2 +1,4 @@
+github.com/TutorialEdge/realtime-chat-go-react v0.0.0-20181220111023-732a923d110b h1:5heiI7fgWaqZ2ZwCbZHEx9gt/qgMLFLECVJKV+wfc8c=
 github.com/gorilla/websocket v1.4.0 h1:WDFjx/TMzVgy9VdMMQi2K2Emtwi2QcUQsztZ/zLaH/Q=
 github.com/gorilla/websocket v1.4.0/go.mod h1:E7qHFY5m1UJ88s3WnNqhKjPHQ0heANvMoAMk2YaljkQ=
+github.com/thoainguyen/chat-system-in-go-and-react v0.0.0-20190428174149-a0485e9075e3 h1:7Au4DGJPK09PQY/7RU1Um2IX8pqtigg8c6AktbsK8CU=
