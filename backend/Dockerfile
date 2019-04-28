@@ -6,4 +6,4 @@ WORKDIR /app
 RUN go mod download
 RUN go build -v
 RUN ls
-CMD ["/app/realtime-chat-go-react"]
+CMD ["/app/chat-system-in-go-and-react"]
