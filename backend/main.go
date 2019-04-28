@@ -45,7 +45,7 @@ func reader(conn *websocket.Conn) {
 
 // define our WebSocket endpoint
 func serveWs(w http.ResponseWriter, r *http.Request) {
-fmt.Println(r.Host)
+    fmt.Println(r.Host)
 
     // upgrade this connection to a WebSocket
     // connection
